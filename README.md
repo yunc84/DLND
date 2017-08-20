@@ -1,2 +1,2 @@
-# DLND
-Projects for Udacity's Deep Learning Nanodegree
+# Deep Learning Nanodegree
+Projects for Udacity Deep Learning Nanodegree
